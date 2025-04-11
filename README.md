@@ -1,4 +1,4 @@
-this program transfer numbers into linked list of digits then multiply these digits together by method of multiply(p,q)
+this program transfer numbers into linked list of digits then multiply these digits together by multiply(p,q)
 
 # For example:
 p = 123 
